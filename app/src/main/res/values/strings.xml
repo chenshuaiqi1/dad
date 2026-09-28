@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">虚拟定位</string>
+    <string name="latitude_hint">纬度</string>
+    <string name="longitude_hint">经度</string>
+    <string name="accuracy_hint">精度（米）</string>
+    <string name="set_location">设置位置</string>
+    <string name="start_service">启动服务</string>
+    <string name="stop_service">停止服务</string>
+    <string name="current_location">当前位置</string>
+    <string name="permission_denied">权限被拒绝</string>
+    <string name="location_set">位置已设置</string>
+</resources>
